@@ -13,4 +13,4 @@ Wait 10-20 seconds
 Restart PC
 HWID Permantly changed
 
-Currently working/Undetected | 5-4-2024
+Currently working/Undetected | 6-4-2024
